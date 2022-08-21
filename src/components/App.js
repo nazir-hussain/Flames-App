@@ -4,12 +4,12 @@ import "../styles/App.css";
 class App extends Component {
   render() {
     let relatives = [
-      "Kaushal",
-      "Aakash",
-      "Harshit",
-      "Deepak",
-      "Kapil",
-      "Ankur"
+      "Nazir",
+      "Sabir",
+      "Imran",
+      "Prahlad",
+      "Shiwam",
+      "Vikash"
     ];
     return (
       <div id="main">
