@@ -1,5 +1,5 @@
 # Flames-App
-Question 1
+Question 
 (medium)
 
 They say friendship is greater than love. Why not play the famous game "FLAMES".
