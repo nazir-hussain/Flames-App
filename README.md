@@ -1,6 +1,6 @@
 # Flames-App
 Question 1
-medium
+(medium)
 
 They say friendship is greater than love. Why not play the famous game "FLAMES".
 The rules are super simple. Given two strings (all lowercase), remove all the letters that are common to both the strings from both the strings. You cannot erase two characters corresponding to one character.
