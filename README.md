@@ -14,7 +14,7 @@ String 2: nsh
 
 Now all you need to do is find the sum of the remaining strings length % 6.
 
-Output:
+Output:-
 If the obtained value is 1, output "Friends"
 If the obtained value is 2, output "Love"
 If the obtained value is 3, output "Affection"
