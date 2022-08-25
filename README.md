@@ -30,7 +30,7 @@ Steps:-
 - Render output in an h3 tag
 - Clear Button- > Clear inputs and relationship status
 
-Description:
+Description:-
 - You need to make two input box inside App component
 one input box with data-testid="input1"
 second input box with data-testid="input2"
