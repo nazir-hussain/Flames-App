@@ -23,7 +23,7 @@ If the obtained value is 5, output "Enemy"
 If the obtained value is 0, output "Siblings"
 If any of the input is blank then output ''Please Enter valid input''
 
-Steps:
+Steps:-
 - Take-Two Input: First Name, Second Name
 - Button Text: 'Calculate Relationship Future'
 - Onclick of the button, evaluate status using the logic above
